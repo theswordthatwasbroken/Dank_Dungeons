@@ -1,0 +1,8 @@
+Path,"A windy forest path."
+Pub,"Outside a two-story drinking establishment. It's seen better days."
+Log,"Part of a fallen tree. It appears to be hollow inside."
+Inside,"Gregor's Fyne Drynks- interior."
+Bar,"The long polished surface is splashed with blood and grime."
+Upstairs,"Gregor's Fyne Drynks- the upper floor. Nothing very interesting here- some bedrooms and storage."
+Cellar,"Gregor's Fyne Drynks- the cellar. Stuff is stored down here. It's gloomy."
+North,"..."

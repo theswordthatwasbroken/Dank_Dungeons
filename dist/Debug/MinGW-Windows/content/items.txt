@@ -1,0 +1,42 @@
+Leather_Jacket,"Armor made of leather",armor,5,0,2
+Boots,"Make for walkin'",armor,4,0,1
+Crowbar,"A tool for prying/levering/beating things. An unsubtle lockpick.",melee,3,4,0
+Rock,"A small stone. Good for ammo or throwing into a lake or gambling with.",misc,1,2,0
+Branch,"It's a branch.",misc,1,1,0
+Pants,"Pants.",armor,2,0,1
+Short_Sword,"Stick them with the pointy end.",melee,2,5,0
+Dagger,"Is this a dagger I see before me?",melee,1,3,0
+Water_Pouch,"Drinking water.",misc,1,0,0
+Flute,"A flute.",misc,1,0,0
+Orc_Armor,"Armor that Orcs wear. Not very well made.",armor,6,0,3
+Orc_Sword,"An Orc blade. It's in bad condition.",melee,3,2,0
+Log,"Part of an old fallen tree. It appears to be hollow.",misc,200,0,0
+Money_Pouch,"A small drawstring pouch. Good for keeping small things in.",misc,1,0,0
+Note,"It appears to have a terrible poem written on it: Oh freddled gruntbuggly/ Thy micturations are to me/ As plurdled gabbleblotchits on a lurgid bee.",misc,1,0,0
+Spider,"Yipes! Nothing should have that many legs!",misc,2,0,0
+Gold_coin,"A coin of the realm.",money,1,0,0
+Corpse,"Gross. It has been here for a while. In your professional courier opinion this person is dead. Cause of death? The arrows in his chest.",misc,80,0,0
+Arrow,"Not the TV show. Ammo for a bow.",ammo,1,3,0
+Crate,"A wooden box.",misc,5,0,0
+Shoe,"If the shoe fits...",misc,1,0,0
+Axe,"An axe. You found it stuck in a door.",melee,2,4,0
+Bar,"The bar. There is a shelf of drinks behind it.",misc,200,0,0
+Tables,"A bunch of tables. Some are busted.",misc,0,0,0
+Broken_Table,"A busted table.",misc,10,0,0
+Metal_Helm,"Head armor. This helm is so metal.",armor,3,0,1
+Flagon,"Rhymes with dragon and holds grog.",misc,1,0,0
+Barstool,"Barstool. Woo!",misc,5,0,0
+Grog_Bottle,"A bottle of grog.",misc,2,0,0
+Flower_Bed,"Some flowers. They are pretty and colorful.",misc,0,0,0
+Debris,"Bits and pieces of random stuff.",misc,0,0,0
+Shelf,"A shelf for drinks. Might be worth searching.",misc,105,0,0
+Nuclear_Submarine,"Unexpected.",misc,50000,0,0
+Horse,"Is it a horse of course? Neigh!",misc,100,0,0
+Cellar_Key,"The key to everything or the cellar? (The cellar)",misc,1,0,0
+Random_Key,"You have no idea what this key is for.",misc,1,0,0
+Old_Key,"This key seems old.",misc,1,0,0
+Keyrack,"A small rack for keys hanging on the wall.",misc,3,0,0
+Geiger_Counter,"General rule: the higher the reading the less you should be in that place.",misc,5,0,0
+Flower,"Pretty.",misc,1,0,0
+Teddy_Bear,"Only has one eye.",misc,1,0,0
+Chainsaw,"Aim away from face.",melee,10,10,0

@@ -1,0 +1,7 @@
+Path,3,4,16,16,16
+Log,12,17
+Pub,29,19
+Inside,23,24,30
+Bar,22,31,26
+Upstairs,16,37
+Cellar,32,33

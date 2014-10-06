@@ -1,0 +1,16 @@
+combat notes:
+armor 6
+damage 5
+
+roll d10
+10 - 6 = 4
+hit = 1-4
+miss = 6-10 or 0
+
+armor 3
+10 - 3 = 7
+hit = 1-7
+miss = 8-10 or 0
+
+max armor = 9
+min armor = 1

@@ -1,0 +1,8 @@
+Log,13,14,15,41
+Money_Pouch,16
+Shelf,28,28,38,11,16
+Debris,10
+Keyrack,34,35,36
+Flower_Bed,39,39,39
+Crate,25,20,20,20,20
+Corpse,18,18,20
